@@ -1,0 +1,13 @@
+#Thu Jun 29 22:29:42 IST 2023
+base.0=/Users/aryan.bansal/AwesomeProject_1/android/app/build/intermediates/dex/developmentDebug/mergeExtDexDevelopmentDebug/classes.dex
+base.1=/Users/aryan.bansal/AwesomeProject_1/android/app/build/intermediates/dex/developmentDebug/mergeProjectDexDevelopmentDebug/0/classes.dex
+base.2=/Users/aryan.bansal/AwesomeProject_1/android/app/build/intermediates/dex/developmentDebug/mergeProjectDexDevelopmentDebug/13/classes.dex
+base.3=/Users/aryan.bansal/AwesomeProject_1/android/app/build/intermediates/dex/developmentDebug/mergeProjectDexDevelopmentDebug/14/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=13/classes.dex
+path.3=14/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
